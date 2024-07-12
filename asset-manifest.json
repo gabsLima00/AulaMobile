@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AulaMobile/static/css/main.6ea3a440.css",
+    "main.js": "/AulaMobile/static/js/main.ce6f0032.js",
+    "static/js/453.4d51bd4f.chunk.js": "/AulaMobile/static/js/453.4d51bd4f.chunk.js",
+    "index.html": "/AulaMobile/index.html",
+    "main.6ea3a440.css.map": "/AulaMobile/static/css/main.6ea3a440.css.map",
+    "main.ce6f0032.js.map": "/AulaMobile/static/js/main.ce6f0032.js.map",
+    "453.4d51bd4f.chunk.js.map": "/AulaMobile/static/js/453.4d51bd4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ea3a440.css",
+    "static/js/main.ce6f0032.js"
+  ]
+}
